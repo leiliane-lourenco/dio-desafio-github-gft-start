@@ -1,2 +1,5 @@
-# dio-desafio-github-gft-start
-Desafio de Projeto sobre Git/GitHub Bootcamp GFT Start
+# Desafio de Projeto Git/GitHub da DIO Bootcamp GFT Start
+Repositório criado para o Desafio de Projeto.
+
+##
+[Sintaxe Basica Markdowun] (https://www.markdownguide.org/basic-syntax/)
